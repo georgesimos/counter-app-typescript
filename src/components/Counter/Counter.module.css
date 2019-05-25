@@ -1,0 +1,35 @@
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}
+
+.inner__container {
+    background: #fff;
+    width: 300px;
+    padding: 20px;
+    border-radius: 2px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.button {
+    background-color: transparent;
+    border: none;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 3px;
+    transition: all .15s ease-in;
+}
+.button:focus {
+    outline: none;
+}
+.button:nth-child(1):hover {
+    background: #F45B69;
+    color: #fff;
+}
+.button:nth-child(3):hover {
+    background: #C0DFA1;
+    color: #fff;
+}
