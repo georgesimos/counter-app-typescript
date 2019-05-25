@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+![Image of Counter App](/public/images/counter.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -45,30 +47,30 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 What does Typescript offers?
 
-Static type checking
+* Static type checking
 
-Class based objects
+* Class based objects
 
-Modularity
+* Modularity
 
-ES6 features
+* ES6 features
 
-Syntax closer to high level languages (ex. Java)
+* Syntax closer to high level languages (ex. Java)
 
 # Typescript
 
 Typescript is a Typed superset of javaScript that compiles to plain Javascript.
-Easily integrated into javaScript projects.
-Designed for development of large applications 
-Developed by Microsoft.
+* Easily integrated into javaScript projects.
+* Designed for development of large applications 
+* Developed by Microsoft.
 
 ## What does Typescript offers?
 
-Static type checking.
-Class based objects.
-Modularity.
-ES6 features.
-Syntax closer to high level languages (ex. Java).
+* Static type checking.
+* Class based objects.
+* Modularity.
+* ES6 features.
+* Syntax closer to high level languages (ex. Java).
 
 ## Installation
 
