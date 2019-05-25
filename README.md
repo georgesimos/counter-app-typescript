@@ -42,3 +42,57 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+What does Typescript offers?
+
+Static type checking
+
+Class based objects
+
+Modularity
+
+ES6 features
+
+Syntax closer to high level languages (ex. Java)
+
+# Typescript
+
+Typescript is a Typed superset of javaScript that compiles to plain Javascript.
+Easily integrated into javaScript projects.
+Designed for development of large applications 
+Developed by Microsoft.
+
+## What does Typescript offers?
+
+Static type checking.
+Class based objects.
+Modularity.
+ES6 features.
+Syntax closer to high level languages (ex. Java).
+
+## Installation
+
+The command-line TypeScript compiler can be installed as a [Node.js](https://node.dev/) package.
+
+install
+```bash
+npm install -g typescript
+```
+compile
+```bash
+tsc helloworld.ts
+```
+
+## Usage
+
+```javascript
+let myString: string;
+let myNum: number;
+let myBool: boolean;
+let any: any;
+
+function getSum(num1: number, num2: number): number {
+    return num1 + num2;
+}
+
+```
